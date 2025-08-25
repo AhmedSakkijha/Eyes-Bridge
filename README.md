@@ -35,7 +35,7 @@ Eyes Bridge is an innovative assistant application. It leverages cutting-edge AI
 - **Infrastructure**: Google Cloud Platform (Cloud Run, Cloud Functions)
 - **CI/CD**: Google Cloud Build
 
-![Architecture](./public/images/architecture.png)
+![Architecture](./public/images/architectur.png)
 
 ## Setup
 
@@ -70,4 +70,5 @@ This project is released under the MIT License.
 ---
 
 This project aims to create a more inclusive society through AI technology.
+
 
