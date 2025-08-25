@@ -1,4 +1,4 @@
-# Vision Bridge
+# Eyes Bridge
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
@@ -70,3 +70,4 @@ This project is released under the MIT License.
 ---
 
 This project aims to create a more inclusive society through AI technology.
+
