@@ -26,7 +26,9 @@ to support the daily lives of visually impaired individuals.
 3. **Object and Text Recognition**: Detailed audio descriptions of objects and text
 4. **Voice Command Control**: Intuitive app control through voice instructions
 
+
 ![Architecture](./public/images/architectur.png)
+
 
 
 ## Technology Stack
@@ -75,6 +77,7 @@ This project is released under the MIT License.
 ---
 
 This project aims to create a more inclusive society through AI technology.
+
 
 
 
