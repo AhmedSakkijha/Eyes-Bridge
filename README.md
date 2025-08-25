@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/lang-en-brightgreen.svg" alt="en">
 </a>
 
-Eyes Bridge is an innovative assistant application. It leverages cutting-edge AI technology to support the daily lives of visually impaired individuals.
+Eyes Bridge is an innovative assistant application. leverages cutting-edge AI technology 
+to support the daily lives of visually impaired individuals.
 
 
 ## Table of Contents
@@ -25,6 +26,9 @@ Eyes Bridge is an innovative assistant application. It leverages cutting-edge AI
 3. **Object and Text Recognition**: Detailed audio descriptions of objects and text
 4. **Voice Command Control**: Intuitive app control through voice instructions
 
+![Architecture](./public/images/architectur.png)
+
+
 ## Technology Stack
 
 - **Frontend**: Next.js, React, TypeScript
@@ -35,7 +39,6 @@ Eyes Bridge is an innovative assistant application. It leverages cutting-edge AI
 - **Infrastructure**: Google Cloud Platform (Cloud Run, Cloud Functions)
 - **CI/CD**: Google Cloud Build
 
-![Architecture](./public/images/architectur.png)
 
 ## Setup
 
@@ -72,6 +75,7 @@ This project is released under the MIT License.
 ---
 
 This project aims to create a more inclusive society through AI technology.
+
 
 
 
