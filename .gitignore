@@ -1,0 +1,13 @@
+node_modules
+# Ignore .next directory
+.next
+
+# Ignore .env.local file
+.env.local
+.venv
+
+node_modules/
+*.dll
+*.exe
+*.log
+.next/
